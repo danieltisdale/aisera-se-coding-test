@@ -1,12 +1,10 @@
 import requests
 import json
 
-# Replace with the actual API URL
 api_url = "https://golf-leaderboard-data.p.rapidapi.com/world-rankings"
 
-# Optional: Set headers if required by the API
 headers = {'X-RapidAPI-Key': '147b790dc0msh8ff89029e585bf0p185e34jsn65e02967b12a',
-    'X-RapidAPI-Host': 'golf-leaderboard-data.p.rapidapi.com'}  # Add headers here if needed
+    'X-RapidAPI-Host': 'golf-leaderboard-data.p.rapidapi.com'}
 
 # Send the API request
 response = requests.get(api_url, headers=headers)
