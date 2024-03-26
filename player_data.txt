@@ -1,0 +1,3992 @@
+{
+    "player_name": "Scottie Scheffler",
+    "position": 1
+}
+{
+    "player_name": "Rory McIlroy",
+    "position": 2
+}
+{
+    "player_name": "Jon Rahm",
+    "position": 3
+}
+{
+    "player_name": "Wyndham Clark",
+    "position": 4
+}
+{
+    "player_name": "Xander Schauffele",
+    "position": 5
+}
+{
+    "player_name": "Viktor Hovland",
+    "position": 6
+}
+{
+    "player_name": "Patrick Cantlay",
+    "position": 7
+}
+{
+    "player_name": "Brian Harman",
+    "position": 8
+}
+{
+    "player_name": "Ludvig \u00c5berg",
+    "position": 9
+}
+{
+    "player_name": "Max Homa",
+    "position": 10
+}
+{
+    "player_name": "Matt Fitzpatrick",
+    "position": 11
+}
+{
+    "player_name": "Tommy Fleetwood",
+    "position": 12
+}
+{
+    "player_name": "Cameron Young",
+    "position": 13
+}
+{
+    "player_name": "Hideki Matsuyama",
+    "position": 14
+}
+{
+    "player_name": "Sahith Theegala",
+    "position": 15
+}
+{
+    "player_name": "Tyrrell Hatton",
+    "position": 16
+}
+{
+    "player_name": "Collin Morikawa",
+    "position": 17
+}
+{
+    "player_name": "Keegan Bradley",
+    "position": 18
+}
+{
+    "player_name": "Jordan Spieth",
+    "position": 19
+}
+{
+    "player_name": "Jason Day",
+    "position": 20
+}
+{
+    "player_name": "Sam Burns",
+    "position": 21
+}
+{
+    "player_name": "Tom Kim",
+    "position": 22
+}
+{
+    "player_name": "Russell Henley",
+    "position": 23
+}
+{
+    "player_name": "Matthieu Pavon",
+    "position": 24
+}
+{
+    "player_name": "Nick Taylor",
+    "position": 25
+}
+{
+    "player_name": "Chris Kirk",
+    "position": 26
+}
+{
+    "player_name": "Sepp Straka",
+    "position": 27
+}
+{
+    "player_name": "Justin Thomas",
+    "position": 28
+}
+{
+    "player_name": "Will Zalatoris",
+    "position": 29
+}
+{
+    "player_name": "Tony Finau",
+    "position": 30
+}
+{
+    "player_name": "Brooks Koepka",
+    "position": 31
+}
+{
+    "player_name": "Min Woo Lee",
+    "position": 32
+}
+{
+    "player_name": "Rickie Fowler",
+    "position": 33
+}
+{
+    "player_name": "Shane Lowry",
+    "position": 34
+}
+{
+    "player_name": "Lucas Glover",
+    "position": 35
+}
+{
+    "player_name": "Emiliano Grillo",
+    "position": 36
+}
+{
+    "player_name": "Sungjae Im",
+    "position": 37
+}
+{
+    "player_name": "Nicolai H\u00f8jgaard",
+    "position": 38
+}
+{
+    "player_name": "Eric Cole",
+    "position": 39
+}
+{
+    "player_name": "Harris English",
+    "position": 40
+}
+{
+    "player_name": "Kurt Kitayama",
+    "position": 41
+}
+{
+    "player_name": "Byeong Hun An",
+    "position": 42
+}
+{
+    "player_name": "J.T. Poston",
+    "position": 43
+}
+{
+    "player_name": "Adam Hadwin",
+    "position": 44
+}
+{
+    "player_name": "Si Woo Kim",
+    "position": 45
+}
+{
+    "player_name": "Jake Knapp",
+    "position": 46
+}
+{
+    "player_name": "Ryan Fox",
+    "position": 47
+}
+{
+    "player_name": "Corey Conners",
+    "position": 48
+}
+{
+    "player_name": "Denny McCarthy",
+    "position": 49
+}
+{
+    "player_name": "Austin Eckroat",
+    "position": 50
+}
+{
+    "player_name": "Adam Scott",
+    "position": 51
+}
+{
+    "player_name": "Adrian Meronk",
+    "position": 52
+}
+{
+    "player_name": "Justin Rose",
+    "position": 53
+}
+{
+    "player_name": "Grayson Murray",
+    "position": 54
+}
+{
+    "player_name": "Christiaan Bezuidenhout",
+    "position": 55
+}
+{
+    "player_name": "Adam Schenk",
+    "position": 56
+}
+{
+    "player_name": "Tom Hoge",
+    "position": 57
+}
+{
+    "player_name": "Cam Davis",
+    "position": 58
+}
+{
+    "player_name": "Cameron Smith",
+    "position": 59
+}
+{
+    "player_name": "Erik van Rooyen",
+    "position": 60
+}
+{
+    "player_name": "Luke List",
+    "position": 61
+}
+{
+    "player_name": "Taylor Moore",
+    "position": 62
+}
+{
+    "player_name": "Mackenzie Hughes",
+    "position": 63
+}
+{
+    "player_name": "Brendon Todd",
+    "position": 64
+}
+{
+    "player_name": "Peter Malnati",
+    "position": 65
+}
+{
+    "player_name": "Alex Noren",
+    "position": 66
+}
+{
+    "player_name": "Andrew Putnam",
+    "position": 67
+}
+{
+    "player_name": "Thorbj\u00f8rn Olesen",
+    "position": 68
+}
+{
+    "player_name": "Lee Hodges",
+    "position": 69
+}
+{
+    "player_name": "Keith Mitchell",
+    "position": 70
+}
+{
+    "player_name": "Stephan Jaeger",
+    "position": 71
+}
+{
+    "player_name": "Adam Svensson",
+    "position": 72
+}
+{
+    "player_name": "Nick Dunlap",
+    "position": 73
+}
+{
+    "player_name": "Robert MacIntyre",
+    "position": 74
+}
+{
+    "player_name": "Thomas Detry",
+    "position": 75
+}
+{
+    "player_name": "Beau Hossler",
+    "position": 76
+}
+{
+    "player_name": "Mark Hubbard",
+    "position": 77
+}
+{
+    "player_name": "Rasmus H\u00f8jgaard",
+    "position": 78
+}
+{
+    "player_name": "Lucas Herbert",
+    "position": 79
+}
+{
+    "player_name": "Sami Valimaki",
+    "position": 80
+}
+{
+    "player_name": "Aaron Rai",
+    "position": 81
+}
+{
+    "player_name": "Taylor Montgomery",
+    "position": 82
+}
+{
+    "player_name": "Patrick Rodgers",
+    "position": 83
+}
+{
+    "player_name": "Ryo Hisatsune",
+    "position": 84
+}
+{
+    "player_name": "Rikuya Hoshino",
+    "position": 85
+}
+{
+    "player_name": "Joaquin Niemann",
+    "position": 86
+}
+{
+    "player_name": "Billy Horschel",
+    "position": 87
+}
+{
+    "player_name": "Jordan Smith",
+    "position": 88
+}
+{
+    "player_name": "K.H. Lee",
+    "position": 89
+}
+{
+    "player_name": "Thriston Lawrence",
+    "position": 90
+}
+{
+    "player_name": "Matt Wallace",
+    "position": 91
+}
+{
+    "player_name": "Matt Kuchar",
+    "position": 92
+}
+{
+    "player_name": "Victor Perez",
+    "position": 93
+}
+{
+    "player_name": "Ben Griffin",
+    "position": 94
+}
+{
+    "player_name": "Akshay Bhatia",
+    "position": 95
+}
+{
+    "player_name": "Alexander Bj\u00f6rk",
+    "position": 96
+}
+{
+    "player_name": "Justin Suh",
+    "position": 97
+}
+{
+    "player_name": "Vincent Norrman",
+    "position": 98
+}
+{
+    "player_name": "Taylor Pendrith",
+    "position": 99
+}
+{
+    "player_name": "Sam Ryder",
+    "position": 100
+}
+{
+    "player_name": "Maverick McNealy",
+    "position": 101
+}
+{
+    "player_name": "Jesper Svensson",
+    "position": 102
+}
+{
+    "player_name": "Patrick Reed",
+    "position": 103
+}
+{
+    "player_name": "Zander Lombard",
+    "position": 104
+}
+{
+    "player_name": "Seamus Power",
+    "position": 105
+}
+{
+    "player_name": "David Puig",
+    "position": 106
+}
+{
+    "player_name": "Dean Burmester",
+    "position": 107
+}
+{
+    "player_name": "Charley Hoffman",
+    "position": 108
+}
+{
+    "player_name": "Zac Blair",
+    "position": 109
+}
+{
+    "player_name": "Michael Kim",
+    "position": 110
+}
+{
+    "player_name": "Keita Nakajima",
+    "position": 111
+}
+{
+    "player_name": "Louis Oosthuizen",
+    "position": 112
+}
+{
+    "player_name": "Pablo Larrazabal",
+    "position": 113
+}
+{
+    "player_name": "Kevin Yu",
+    "position": 114
+}
+{
+    "player_name": "Jorge Campillo",
+    "position": 115
+}
+{
+    "player_name": "Chandler Phillips",
+    "position": 116
+}
+{
+    "player_name": "Alex Smalley",
+    "position": 117
+}
+{
+    "player_name": "Chan Kim",
+    "position": 118
+}
+{
+    "player_name": "Nate Lashley",
+    "position": 118
+}
+{
+    "player_name": "Doug Ghim",
+    "position": 120
+}
+{
+    "player_name": "Yannik Paul",
+    "position": 121
+}
+{
+    "player_name": "Davis Thompson",
+    "position": 122
+}
+{
+    "player_name": "Matti Schmid",
+    "position": 123
+}
+{
+    "player_name": "Ewen Ferguson",
+    "position": 124
+}
+{
+    "player_name": "Carl Yuan",
+    "position": 125
+}
+{
+    "player_name": "Ben Silverman",
+    "position": 126
+}
+{
+    "player_name": "Scott Stallings",
+    "position": 127
+}
+{
+    "player_name": "Ben Kohles",
+    "position": 128
+}
+{
+    "player_name": "Joost Luiten",
+    "position": 129
+}
+{
+    "player_name": "C.T. Pan",
+    "position": 130
+}
+{
+    "player_name": "Sam Stevens",
+    "position": 131
+}
+{
+    "player_name": "S.H. Kim",
+    "position": 132
+}
+{
+    "player_name": "Adrian Otaegui",
+    "position": 133
+}
+{
+    "player_name": "Chez Reavie",
+    "position": 134
+}
+{
+    "player_name": "Antoine Rozner",
+    "position": 135
+}
+{
+    "player_name": "Gary Woodland",
+    "position": 136
+}
+{
+    "player_name": "Tom McKibbin",
+    "position": 137
+}
+{
+    "player_name": "Takumi Kanaya",
+    "position": 138
+}
+{
+    "player_name": "Connor Syme",
+    "position": 139
+}
+{
+    "player_name": "Alex Fitzpatrick",
+    "position": 140
+}
+{
+    "player_name": "Brandon Wu",
+    "position": 141
+}
+{
+    "player_name": "J.J. Spaun",
+    "position": 142
+}
+{
+    "player_name": "Sebastian Soderberg",
+    "position": 143
+}
+{
+    "player_name": "Taiga Semikawa",
+    "position": 144
+}
+{
+    "player_name": "Alejandro Tosti",
+    "position": 145
+}
+{
+    "player_name": "Romain Langasque",
+    "position": 146
+}
+{
+    "player_name": "Joel Dahmen",
+    "position": 147
+}
+{
+    "player_name": "Hayden Buckley",
+    "position": 148
+}
+{
+    "player_name": "Tyler Duncan",
+    "position": 149
+}
+{
+    "player_name": "Dylan Wu",
+    "position": 150
+}
+{
+    "player_name": "Andrew Novak",
+    "position": 151
+}
+{
+    "player_name": "Callum Shinkwin",
+    "position": 152
+}
+{
+    "player_name": "Grant Forrest",
+    "position": 153
+}
+{
+    "player_name": "Martin Laird",
+    "position": 154
+}
+{
+    "player_name": "David Lingmerth",
+    "position": 155
+}
+{
+    "player_name": "Phil Mickelson",
+    "position": 156
+}
+{
+    "player_name": "Camilo Villegas",
+    "position": 157
+}
+{
+    "player_name": "Mito Pereira",
+    "position": 158
+}
+{
+    "player_name": "Chesson Hadley",
+    "position": 159
+}
+{
+    "player_name": "Jimmy Stanger",
+    "position": 160
+}
+{
+    "player_name": "Mason Andersen",
+    "position": 161
+}
+{
+    "player_name": "Rico Hoey",
+    "position": 162
+}
+{
+    "player_name": "Daniel Hillier",
+    "position": 163
+}
+{
+    "player_name": "Justin Lower",
+    "position": 164
+}
+{
+    "player_name": "Nathan Kimsey",
+    "position": 165
+}
+{
+    "player_name": "Carson Young",
+    "position": 166
+}
+{
+    "player_name": "Robby Shelton",
+    "position": 167
+}
+{
+    "player_name": "Ryan Moore",
+    "position": 168
+}
+{
+    "player_name": "Marcel Siem",
+    "position": 169
+}
+{
+    "player_name": "Richard Mansell",
+    "position": 170
+}
+{
+    "player_name": "Max Greyserman",
+    "position": 171
+}
+{
+    "player_name": "Julien Guerrier",
+    "position": 172
+}
+{
+    "player_name": "Norman Xiong",
+    "position": 173
+}
+{
+    "player_name": "Kevin Streelman",
+    "position": 174
+}
+{
+    "player_name": "Matt NeSmith",
+    "position": 175
+}
+{
+    "player_name": "Dan Bradbury",
+    "position": 176
+}
+{
+    "player_name": "David Skinns",
+    "position": 177
+}
+{
+    "player_name": "Joe Highsmith",
+    "position": 178
+}
+{
+    "player_name": "Brice Garnett",
+    "position": 179
+}
+{
+    "player_name": "Garrick Higgo",
+    "position": 180
+}
+{
+    "player_name": "Greyson Sigg",
+    "position": 181
+}
+{
+    "player_name": "Parker Coody",
+    "position": 182
+}
+{
+    "player_name": "Nick Hardy",
+    "position": 183
+}
+{
+    "player_name": "Harry Hall",
+    "position": 184
+}
+{
+    "player_name": "Matthew Southgate",
+    "position": 185
+}
+{
+    "player_name": "Nicholas Lindheim",
+    "position": 186
+}
+{
+    "player_name": "Matteo Manassero",
+    "position": 187
+}
+{
+    "player_name": "Shubhankar Sharma",
+    "position": 188
+}
+{
+    "player_name": "Pierceson Coody",
+    "position": 189
+}
+{
+    "player_name": "Calum Hill",
+    "position": 190
+}
+{
+    "player_name": "Jeff Winther",
+    "position": 191
+}
+{
+    "player_name": "Adrien Dumont de Chassart",
+    "position": 192
+}
+{
+    "player_name": "Richie Ramsay",
+    "position": 193
+}
+{
+    "player_name": "Taylor Dickson",
+    "position": 194
+}
+{
+    "player_name": "Joseph Bramlett",
+    "position": 195
+}
+{
+    "player_name": "Daniel Brown",
+    "position": 196
+}
+{
+    "player_name": "Andy Ogletree",
+    "position": 197
+}
+{
+    "player_name": "Abraham Ancer",
+    "position": 198
+}
+{
+    "player_name": "Ignacio Elvira Mijares",
+    "position": 199
+}
+{
+    "player_name": "Jacob Bridgeman",
+    "position": 200
+}
+{
+    "player_name": "Maximilian Kieffer",
+    "position": 201
+}
+{
+    "player_name": "Bryson DeChambeau",
+    "position": 202
+}
+{
+    "player_name": "Aaron Baddeley",
+    "position": 203
+}
+{
+    "player_name": "Aaron Cockerill",
+    "position": 204
+}
+{
+    "player_name": "Trey Mullinax",
+    "position": 205
+}
+{
+    "player_name": "Ugo Coussaud",
+    "position": 206
+}
+{
+    "player_name": "Will Gordon",
+    "position": 207
+}
+{
+    "player_name": "Sam Bairstow",
+    "position": 208
+}
+{
+    "player_name": "Callum Tarren",
+    "position": 209
+}
+{
+    "player_name": "Frederic LaCroix",
+    "position": 210
+}
+{
+    "player_name": "Dylan Frittelli",
+    "position": 211
+}
+{
+    "player_name": "Marcus Helligkilde",
+    "position": 212
+}
+{
+    "player_name": "Matthew Jordan",
+    "position": 213
+}
+{
+    "player_name": "David Lipsky",
+    "position": 214
+}
+{
+    "player_name": "Vince Whaley",
+    "position": 215
+}
+{
+    "player_name": "Isaiah Salinda",
+    "position": 216
+}
+{
+    "player_name": "Sean Crocker",
+    "position": 217
+}
+{
+    "player_name": "Darius Van Driel",
+    "position": 218
+}
+{
+    "player_name": "Laurie Canter",
+    "position": 219
+}
+{
+    "player_name": "Hendrik Du Plessis",
+    "position": 220
+}
+{
+    "player_name": "Carlos Ortiz",
+    "position": 221
+}
+{
+    "player_name": "Gavin Green",
+    "position": 222
+}
+{
+    "player_name": "Ben Campbell",
+    "position": 223
+}
+{
+    "player_name": "Andy Sullivan",
+    "position": 224
+}
+{
+    "player_name": "Ryan Palmer",
+    "position": 225
+}
+{
+    "player_name": "John Catlin",
+    "position": 226
+}
+{
+    "player_name": "Erik Barnes",
+    "position": 227
+}
+{
+    "player_name": "Travis Smyth",
+    "position": 228
+}
+{
+    "player_name": "Scott Jamieson",
+    "position": 229
+}
+{
+    "player_name": "Todd Clements",
+    "position": 230
+}
+{
+    "player_name": "Webb Simpson",
+    "position": 231
+}
+{
+    "player_name": "Ryo Ishikawa",
+    "position": 232
+}
+{
+    "player_name": "Hurly Long",
+    "position": 233
+}
+{
+    "player_name": "Ben Taylor",
+    "position": 234
+}
+{
+    "player_name": "Cristobal Del Solar",
+    "position": 235
+}
+{
+    "player_name": "Ben Martin",
+    "position": 236
+}
+{
+    "player_name": "Paul Barjon",
+    "position": 237
+}
+{
+    "player_name": "Trace Crowe",
+    "position": 238
+}
+{
+    "player_name": "Young-han Song",
+    "position": 239
+}
+{
+    "player_name": "Guido Migliozzi",
+    "position": 240
+}
+{
+    "player_name": "Ryan Gerard",
+    "position": 241
+}
+{
+    "player_name": "Zach Johnson",
+    "position": 242
+}
+{
+    "player_name": "Davis Riley",
+    "position": 243
+}
+{
+    "player_name": "Henrik Norlander",
+    "position": 244
+}
+{
+    "player_name": "Danny Willett",
+    "position": 244
+}
+{
+    "player_name": "Nick Bachem",
+    "position": 246
+}
+{
+    "player_name": "Alejandro Del Rey",
+    "position": 247
+}
+{
+    "player_name": "Gaganjeet Bhullar",
+    "position": 248
+}
+{
+    "player_name": "Aaron Wise",
+    "position": 249
+}
+{
+    "player_name": "Francesco Molinari",
+    "position": 250
+}
+{
+    "player_name": "Phachara Khongwatmai",
+    "position": 251
+}
+{
+    "player_name": "Paul Waring",
+    "position": 252
+}
+{
+    "player_name": "Jordan Gumberg",
+    "position": 253
+}
+{
+    "player_name": "Marcus Armitage",
+    "position": 254
+}
+{
+    "player_name": "Troy Merritt",
+    "position": 255
+}
+{
+    "player_name": "Tom Whitney",
+    "position": 256
+}
+{
+    "player_name": "Kiradech Aphibarnrat",
+    "position": 257
+}
+{
+    "player_name": "Yuki Inamori",
+    "position": 258
+}
+{
+    "player_name": "Ockie Strydom",
+    "position": 259
+}
+{
+    "player_name": "Brian Campbell",
+    "position": 260
+}
+{
+    "player_name": "Chad Ramey",
+    "position": 261
+}
+{
+    "player_name": "Peter Kuest",
+    "position": 262
+}
+{
+    "player_name": "Chris Gotterup",
+    "position": 263
+}
+{
+    "player_name": "Trent Phillips",
+    "position": 264
+}
+{
+    "player_name": "Ricky Castillo",
+    "position": 265
+}
+{
+    "player_name": "Julien Brun",
+    "position": 266
+}
+{
+    "player_name": "Hayden Springer",
+    "position": 267
+}
+{
+    "player_name": "Sanghyun Park",
+    "position": 268
+}
+{
+    "player_name": "Sadom Kaewkanjana",
+    "position": 269
+}
+{
+    "player_name": "Louis de Jager",
+    "position": 270
+}
+{
+    "player_name": "Eddie Pepperell",
+    "position": 271
+}
+{
+    "player_name": "Jens Dantorp",
+    "position": 272
+}
+{
+    "player_name": "Kevin Velo",
+    "position": 273
+}
+{
+    "player_name": "Fabrizio Zanotti",
+    "position": 274
+}
+{
+    "player_name": "Matthew Baldwin",
+    "position": 275
+}
+{
+    "player_name": "Ryan van Velzen",
+    "position": 276
+}
+{
+    "player_name": "Tyson Alexander",
+    "position": 277
+}
+{
+    "player_name": "Wilson Furr",
+    "position": 278
+}
+{
+    "player_name": "Shugo Imahira",
+    "position": 279
+}
+{
+    "player_name": "Dale Whitnell",
+    "position": 280
+}
+{
+    "player_name": "Jackson Suber",
+    "position": 281
+}
+{
+    "player_name": "Stewart Cink",
+    "position": 282
+}
+{
+    "player_name": "Kevin Roy",
+    "position": 283
+}
+{
+    "player_name": "Thomas Walsh",
+    "position": 284
+}
+{
+    "player_name": "David Ravetto",
+    "position": 285
+}
+{
+    "player_name": "Rafael Campos",
+    "position": 286
+}
+{
+    "player_name": "Padraig Harrington",
+    "position": 287
+}
+{
+    "player_name": "Zecheng Dou",
+    "position": 288
+}
+{
+    "player_name": "Casey Jarvis",
+    "position": 289
+}
+{
+    "player_name": "Patton Kizzire",
+    "position": 290
+}
+{
+    "player_name": "Tomoharu Otsuki",
+    "position": 291
+}
+{
+    "player_name": "Wil Bateman",
+    "position": 292
+}
+{
+    "player_name": "Mac Meissner",
+    "position": 293
+}
+{
+    "player_name": "Carter Jenkins",
+    "position": 294
+}
+{
+    "player_name": "David Micheluzzi",
+    "position": 295
+}
+{
+    "player_name": "Kazuki Higa",
+    "position": 296
+}
+{
+    "player_name": "Kensei Hirata",
+    "position": 297
+}
+{
+    "player_name": "Nico Echavarria",
+    "position": 298
+}
+{
+    "player_name": "Hideto Tanihara",
+    "position": 298
+}
+{
+    "player_name": "Kevin Dougherty",
+    "position": 300
+}
+{
+    "player_name": "Masahiro Kawamura",
+    "position": 301
+}
+{
+    "player_name": "Jason Scrivener",
+    "position": 302
+}
+{
+    "player_name": "Richard Lee",
+    "position": 303
+}
+{
+    "player_name": "Jacques Kruyswijk",
+    "position": 304
+}
+{
+    "player_name": "Cameron Champ",
+    "position": 305
+}
+{
+    "player_name": "Niklas Norgaard Moller",
+    "position": 306
+}
+{
+    "player_name": "Curtis Luck",
+    "position": 307
+}
+{
+    "player_name": "Jayden Schaper",
+    "position": 307
+}
+{
+    "player_name": "Henrik Stenson",
+    "position": 309
+}
+{
+    "player_name": "Ryutaro Nagano",
+    "position": 310
+}
+{
+    "player_name": "Jeremy Paul",
+    "position": 311
+}
+{
+    "player_name": "Austin Smotherman",
+    "position": 312
+}
+{
+    "player_name": "Adri Arnaus",
+    "position": 313
+}
+{
+    "player_name": "Marcel Schneider",
+    "position": 314
+}
+{
+    "player_name": "Manuel Elvira",
+    "position": 315
+}
+{
+    "player_name": "Dustin Johnson",
+    "position": 316
+}
+{
+    "player_name": "David Law",
+    "position": 317
+}
+{
+    "player_name": "Chase Seiffert",
+    "position": 318
+}
+{
+    "player_name": "Patrick Fishburn",
+    "position": 319
+}
+{
+    "player_name": "Mikumu Horikawa",
+    "position": 320
+}
+{
+    "player_name": "Roger Sloan",
+    "position": 321
+}
+{
+    "player_name": "Oliver Wilson",
+    "position": 322
+}
+{
+    "player_name": "Quade Cummins",
+    "position": 323
+}
+{
+    "player_name": "MJ Daffue",
+    "position": 324
+}
+{
+    "player_name": "Simon Forsstr\u00f6m",
+    "position": 325
+}
+{
+    "player_name": "Tim Widing",
+    "position": 326
+}
+{
+    "player_name": "Daan Huizing",
+    "position": 327
+}
+{
+    "player_name": "Taichi Nabetani",
+    "position": 328
+}
+{
+    "player_name": "Rasmus Neergaard-Petersen",
+    "position": 328
+}
+{
+    "player_name": "Jaco Ahlers",
+    "position": 330
+}
+{
+    "player_name": "Jimmy Walker",
+    "position": 331
+}
+{
+    "player_name": "John VanDerLaan",
+    "position": 332
+}
+{
+    "player_name": "Denwit David Boriboonsub",
+    "position": 333
+}
+{
+    "player_name": "Lanto Griffin",
+    "position": 334
+}
+{
+    "player_name": "Paul Haley II",
+    "position": 335
+}
+{
+    "player_name": "Jorge Fern\u00e1ndez Vald\u00e9s",
+    "position": 336
+}
+{
+    "player_name": "Chris Petefish",
+    "position": 337
+}
+{
+    "player_name": "Sam Bennett",
+    "position": 338
+}
+{
+    "player_name": "Poom Saksansin",
+    "position": 339
+}
+{
+    "player_name": "Aldrich Potgieter",
+    "position": 340
+}
+{
+    "player_name": "Logan McAllister",
+    "position": 341
+}
+{
+    "player_name": "Bjorn Akesson",
+    "position": 342
+}
+{
+    "player_name": "Kalle Samooja",
+    "position": 343
+}
+{
+    "player_name": "Shaun Norris",
+    "position": 344
+}
+{
+    "player_name": "Mike Lorenzo-Vera",
+    "position": 345
+}
+{
+    "player_name": "Hiroshi Iwata",
+    "position": 346
+}
+{
+    "player_name": "Thomas Pieters",
+    "position": 347
+}
+{
+    "player_name": "Johannes Veerman",
+    "position": 348
+}
+{
+    "player_name": "Oliver Bekker",
+    "position": 349
+}
+{
+    "player_name": "Kyle Westmoreland",
+    "position": 350
+}
+{
+    "player_name": "Matt McCarty",
+    "position": 351
+}
+{
+    "player_name": "Ryan McCormick",
+    "position": 352
+}
+{
+    "player_name": "Renato Paratore",
+    "position": 353
+}
+{
+    "player_name": "Takahiro Hataji",
+    "position": 354
+}
+{
+    "player_name": "Santiago Tarrio",
+    "position": 355
+}
+{
+    "player_name": "Darren Fichardt",
+    "position": 356
+}
+{
+    "player_name": "Yuta Sugiura",
+    "position": 357
+}
+{
+    "player_name": "Frankie Capan III",
+    "position": 358
+}
+{
+    "player_name": "David Kocher",
+    "position": 359
+}
+{
+    "player_name": "Jeunghun Wang",
+    "position": 360
+}
+{
+    "player_name": "Jacob Solomon",
+    "position": 361
+}
+{
+    "player_name": "James Hahn",
+    "position": 362
+}
+{
+    "player_name": "Marco Penge",
+    "position": 363
+}
+{
+    "player_name": "Alexander Levy",
+    "position": 364
+}
+{
+    "player_name": "Jbe' Kruger",
+    "position": 365
+}
+{
+    "player_name": "Angel Hidalgo Jordan",
+    "position": 366
+}
+{
+    "player_name": "Mikael Lindberg",
+    "position": 367
+}
+{
+    "player_name": "Deon Germishuys",
+    "position": 368
+}
+{
+    "player_name": "Sarit Suwannarut",
+    "position": 369
+}
+{
+    "player_name": "Charl Schwartzel",
+    "position": 370
+}
+{
+    "player_name": "Scott Gutschewski",
+    "position": 371
+}
+{
+    "player_name": "Kramer Hickok",
+    "position": 371
+}
+{
+    "player_name": "Robin Williams",
+    "position": 371
+}
+{
+    "player_name": "Andrea Pavan",
+    "position": 374
+}
+{
+    "player_name": "Scott Piercy",
+    "position": 374
+}
+{
+    "player_name": "Miguel Tabuena",
+    "position": 376
+}
+{
+    "player_name": "Martin Trainer",
+    "position": 376
+}
+{
+    "player_name": "Guntaek Koh",
+    "position": 378
+}
+{
+    "player_name": "Brad Kennedy",
+    "position": 379
+}
+{
+    "player_name": "Kelly Kraft",
+    "position": 380
+}
+{
+    "player_name": "Luke Donald",
+    "position": 381
+}
+{
+    "player_name": "Adam Long",
+    "position": 382
+}
+{
+    "player_name": "Austin Cook",
+    "position": 383
+}
+{
+    "player_name": "Taichi Kho",
+    "position": 384
+}
+{
+    "player_name": "Jaewoong Eom",
+    "position": 385
+}
+{
+    "player_name": "Haotong Li",
+    "position": 386
+}
+{
+    "player_name": "Richy Werenski",
+    "position": 387
+}
+{
+    "player_name": "Ricardo Gouveia",
+    "position": 388
+}
+{
+    "player_name": "Adrien Saddier",
+    "position": 389
+}
+{
+    "player_name": "Yuto Katsuragawa",
+    "position": 390
+}
+{
+    "player_name": "Taiki Yoshida",
+    "position": 391
+}
+{
+    "player_name": "Jamie Donaldson",
+    "position": 392
+}
+{
+    "player_name": "Harrison Endycott",
+    "position": 393
+}
+{
+    "player_name": "Spencer Levin",
+    "position": 393
+}
+{
+    "player_name": "Shad Tuten",
+    "position": 395
+}
+{
+    "player_name": "Francesco Laporta",
+    "position": 396
+}
+{
+    "player_name": "Wilco Nienaber",
+    "position": 397
+}
+{
+    "player_name": "Kristian Johannessen",
+    "position": 398
+}
+{
+    "player_name": "Rhys Enoch",
+    "position": 399
+}
+{
+    "player_name": "Kyung Nam Kang",
+    "position": 400
+}
+{
+    "player_name": "Anirban Lahiri",
+    "position": 401
+}
+{
+    "player_name": "Kieran Vincent",
+    "position": 402
+}
+{
+    "player_name": "John Parry",
+    "position": 403
+}
+{
+    "player_name": "Sam Hutsby",
+    "position": 404
+}
+{
+    "player_name": "Satoshi Kodaira",
+    "position": 405
+}
+{
+    "player_name": "Kris Ventura",
+    "position": 406
+}
+{
+    "player_name": "Tapio Pulkkanen",
+    "position": 407
+}
+{
+    "player_name": "Lukas Nemecz",
+    "position": 408
+}
+{
+    "player_name": "Rafa Cabrera Bello",
+    "position": 409
+}
+{
+    "player_name": "Kazuma Kobor",
+    "position": 410
+}
+{
+    "player_name": "Lorenzo Scalise",
+    "position": 411
+}
+{
+    "player_name": "Davis Shore",
+    "position": 412
+}
+{
+    "player_name": "Thomas Aiken",
+    "position": 413
+}
+{
+    "player_name": "Bio Kim",
+    "position": 414
+}
+{
+    "player_name": "Steve Lewton",
+    "position": 414
+}
+{
+    "player_name": "Noah Goodwin",
+    "position": 416
+}
+{
+    "player_name": "Jeong Woo Ham",
+    "position": 417
+}
+{
+    "player_name": "Jazz Janewattananond",
+    "position": 418
+}
+{
+    "player_name": "Josh Teater",
+    "position": 418
+}
+{
+    "player_name": "Tano Goya",
+    "position": 420
+}
+{
+    "player_name": "Cole Hammer",
+    "position": 421
+}
+{
+    "player_name": "Edoardo Molinari",
+    "position": 422
+}
+{
+    "player_name": "Chiehpo Lee",
+    "position": 423
+}
+{
+    "player_name": "Aguri Iwasaki",
+    "position": 424
+}
+{
+    "player_name": "Brandon R-Thompson",
+    "position": 425
+}
+{
+    "player_name": "Martin Couvra",
+    "position": 426
+}
+{
+    "player_name": "Taihei Sato",
+    "position": 426
+}
+{
+    "player_name": "Daniel Gavins",
+    "position": 428
+}
+{
+    "player_name": "Jeong Weon Ko",
+    "position": 429
+}
+{
+    "player_name": "Brandon Stone",
+    "position": 430
+}
+{
+    "player_name": "Myles Creighton",
+    "position": 431
+}
+{
+    "player_name": "Joshua Grenville-Wood",
+    "position": 432
+}
+{
+    "player_name": "Fabi\u00e1n G\u00f3mez",
+    "position": 433
+}
+{
+    "player_name": "Matthias Schwab",
+    "position": 434
+}
+{
+    "player_name": "James Morrison",
+    "position": 435
+}
+{
+    "player_name": "Kevin Tway",
+    "position": 436
+}
+{
+    "player_name": "Russell Knox",
+    "position": 437
+}
+{
+    "player_name": "Eugenio Chacarra",
+    "position": 438
+}
+{
+    "player_name": "Max Rottluff",
+    "position": 439
+}
+{
+    "player_name": "Jamie Lovemark",
+    "position": 440
+}
+{
+    "player_name": "Daniel van Tonder",
+    "position": 441
+}
+{
+    "player_name": "Kosuke Suzuki",
+    "position": 442
+}
+{
+    "player_name": "Ivan Cantero Gutierrez",
+    "position": 443
+}
+{
+    "player_name": "Bernd Wiesberger",
+    "position": 444
+}
+{
+    "player_name": "Kaito Onishi",
+    "position": 445
+}
+{
+    "player_name": "Trevor Cone",
+    "position": 446
+}
+{
+    "player_name": "Harold Varner III",
+    "position": 447
+}
+{
+    "player_name": "Davis Chatfield",
+    "position": 448
+}
+{
+    "player_name": "Marc Leishman",
+    "position": 449
+}
+{
+    "player_name": "Max McGreevy",
+    "position": 450
+}
+{
+    "player_name": "Lee Jung-hwan",
+    "position": 451
+}
+{
+    "player_name": "Julian Suri",
+    "position": 452
+}
+{
+    "player_name": "Cho Min-jun",
+    "position": 453
+}
+{
+    "player_name": "Marcus Kinhult",
+    "position": 454
+}
+{
+    "player_name": "William Mouw",
+    "position": 454
+}
+{
+    "player_name": "JC Ritchie",
+    "position": 456
+}
+{
+    "player_name": "Ashun Wu",
+    "position": 457
+}
+{
+    "player_name": "Anthony Quayle",
+    "position": 458
+}
+{
+    "player_name": "Scott Vincent",
+    "position": 459
+}
+{
+    "player_name": "Cody Gribble",
+    "position": 460
+}
+{
+    "player_name": "Joakim Lagergren",
+    "position": 461
+}
+{
+    "player_name": "Matt Jones",
+    "position": 462
+}
+{
+    "player_name": "Adam Blomme",
+    "position": 463
+}
+{
+    "player_name": "Harry Higgs",
+    "position": 463
+}
+{
+    "player_name": "Chanmin Jung",
+    "position": 465
+}
+{
+    "player_name": "Karandeep Kochhar",
+    "position": 466
+}
+{
+    "player_name": "Ian Poulter",
+    "position": 467
+}
+{
+    "player_name": "MK Kim",
+    "position": 468
+}
+{
+    "player_name": "Yongjun Bae",
+    "position": 469
+}
+{
+    "player_name": "Ryosuke Kinoshita",
+    "position": 470
+}
+{
+    "player_name": "Jhonattan Vegas",
+    "position": 471
+}
+{
+    "player_name": "Ross Fisher",
+    "position": 472
+}
+{
+    "player_name": "Jang Yu Bin",
+    "position": 473
+}
+{
+    "player_name": "Cl\u00e9ment Sordet",
+    "position": 474
+}
+{
+    "player_name": "Riki Kawamoto",
+    "position": 475
+}
+{
+    "player_name": "Joel Girrbach",
+    "position": 476
+}
+{
+    "player_name": "Naoyuki Kataoka",
+    "position": 477
+}
+{
+    "player_name": "\u00c9tienne Papineau",
+    "position": 478
+}
+{
+    "player_name": "Fred Biondi",
+    "position": 479
+}
+{
+    "player_name": "Freddy Schott",
+    "position": 480
+}
+{
+    "player_name": "Roberto D\u00edaz",
+    "position": 481
+}
+{
+    "player_name": "Gunner Wiebe",
+    "position": 482
+}
+{
+    "player_name": "Euan Walker",
+    "position": 483
+}
+{
+    "player_name": "Doc Redman",
+    "position": 484
+}
+{
+    "player_name": "Rhein Gibson",
+    "position": 485
+}
+{
+    "player_name": "Brett Drewitt",
+    "position": 486
+}
+{
+    "player_name": "Jacobus Prinsloo",
+    "position": 487
+}
+{
+    "player_name": "Daniel Summerhays",
+    "position": 488
+}
+{
+    "player_name": "Alvaro Ortiz",
+    "position": 489
+}
+{
+    "player_name": "Richard Bland",
+    "position": 490
+}
+{
+    "player_name": "Tom Vaillant",
+    "position": 490
+}
+{
+    "player_name": "Eun Shin Park",
+    "position": 492
+}
+{
+    "player_name": "S\u00f8ren Kjeldsen",
+    "position": 493
+}
+{
+    "player_name": "Trey Winstead",
+    "position": 494
+}
+{
+    "player_name": "Austin Hitt",
+    "position": 495
+}
+{
+    "player_name": "Max Schmitt",
+    "position": 496
+}
+{
+    "player_name": "Cody Blick",
+    "position": 497
+}
+{
+    "player_name": "Seungsu Han",
+    "position": 498
+}
+{
+    "player_name": "Brad Hopfinger",
+    "position": 499
+}
+{
+    "player_name": "Sanghun Shin",
+    "position": 500
+}
+{
+    "player_name": "Seung-taek Lee",
+    "position": 501
+}
+{
+    "player_name": "Cameron Percy",
+    "position": 501
+}
+{
+    "player_name": "Kevin Chappell",
+    "position": 503
+}
+{
+    "player_name": "Stuart Macdonald",
+    "position": 504
+}
+{
+    "player_name": "Jung-gon Hwang",
+    "position": 505
+}
+{
+    "player_name": "Kevin Kisner",
+    "position": 506
+}
+{
+    "player_name": "Taiga Nagano",
+    "position": 507
+}
+{
+    "player_name": "Will Enefer",
+    "position": 508
+}
+{
+    "player_name": "Jeffrey Kang",
+    "position": 509
+}
+{
+    "player_name": "Ren Yonezaw",
+    "position": 510
+}
+{
+    "player_name": "Sam Choi",
+    "position": 511
+}
+{
+    "player_name": "Tatsunori Shogenji",
+    "position": 512
+}
+{
+    "player_name": "Augusto N\u00fa\u00f1ez",
+    "position": 513
+}
+{
+    "player_name": "Sebasti\u00e1n Mu\u00f1oz",
+    "position": 514
+}
+{
+    "player_name": "Alfredo Garcia-Heredia",
+    "position": 515
+}
+{
+    "player_name": "Wil Besseling",
+    "position": 516
+}
+{
+    "player_name": "Taisei Shimizu",
+    "position": 517
+}
+{
+    "player_name": "Neil Schietekat",
+    "position": 518
+}
+{
+    "player_name": "Jaekyeong Lee",
+    "position": 519
+}
+{
+    "player_name": "Peter Uihlein",
+    "position": 520
+}
+{
+    "player_name": "Davis Lamb",
+    "position": 521
+}
+{
+    "player_name": "Marc Warren",
+    "position": 522
+}
+{
+    "player_name": "Brandon Crick",
+    "position": 523
+}
+{
+    "player_name": "Michael Thompson",
+    "position": 523
+}
+{
+    "player_name": "Berry Henson",
+    "position": 525
+}
+{
+    "player_name": "Patrick Welch",
+    "position": 526
+}
+{
+    "player_name": "Robin Sciot-Siegrist",
+    "position": 527
+}
+{
+    "player_name": "Yang Ji-ho",
+    "position": 528
+}
+{
+    "player_name": "Kevin Yuan",
+    "position": 529
+}
+{
+    "player_name": "Talor Gooch",
+    "position": 530
+}
+{
+    "player_name": "Chase Hanna",
+    "position": 531
+}
+{
+    "player_name": "Brett Coletta",
+    "position": 532
+}
+{
+    "player_name": "Benjamin Follett-Smith",
+    "position": 532
+}
+{
+    "player_name": "Dongmin Kim",
+    "position": 534
+}
+{
+    "player_name": "Michael Thorbjornsen",
+    "position": 535
+}
+{
+    "player_name": "Zach Bauchou",
+    "position": 536
+}
+{
+    "player_name": "Paul Peterson",
+    "position": 537
+}
+{
+    "player_name": "S.Y. Noh",
+    "position": 538
+}
+{
+    "player_name": "Ryan Brehm",
+    "position": 539
+}
+{
+    "player_name": "Nitithorn Thippong",
+    "position": 539
+}
+{
+    "player_name": "Jamie Rutherford",
+    "position": 541
+}
+{
+    "player_name": "Patrick Cover",
+    "position": 542
+}
+{
+    "player_name": "Louis Albertse",
+    "position": 543
+}
+{
+    "player_name": "Alexander Knappe",
+    "position": 544
+}
+{
+    "player_name": "John Axelsen",
+    "position": 545
+}
+{
+    "player_name": "Thomas Roseenmoller",
+    "position": 546
+}
+{
+    "player_name": "Kristoffer Broberg",
+    "position": 547
+}
+{
+    "player_name": "Brent Grant",
+    "position": 547
+}
+{
+    "player_name": "Oliver Farr",
+    "position": 549
+}
+{
+    "player_name": "Jinichiro Kozuma",
+    "position": 550
+}
+{
+    "player_name": "Scott Hend",
+    "position": 551
+}
+{
+    "player_name": "Tomoyo Ikemura",
+    "position": 552
+}
+{
+    "player_name": "Jason Dufner",
+    "position": 553
+}
+{
+    "player_name": "Maverick Antcliff",
+    "position": 554
+}
+{
+    "player_name": "Yusaku Hoson",
+    "position": 555
+}
+{
+    "player_name": "Kyongjun Moon",
+    "position": 556
+}
+{
+    "player_name": "Brandon Harkins",
+    "position": 557
+}
+{
+    "player_name": "Takashi Ogiso",
+    "position": 558
+}
+{
+    "player_name": "Michael Johnson",
+    "position": 559
+}
+{
+    "player_name": "Jos\u00e9 de Jes\u00fas Rodr\u00edguez",
+    "position": 560
+}
+{
+    "player_name": "Stuart Manley",
+    "position": 561
+}
+{
+    "player_name": "Tae Hee Lee",
+    "position": 562
+}
+{
+    "player_name": "Deyen Lawson",
+    "position": 563
+}
+{
+    "player_name": "Paul Casey",
+    "position": 564
+}
+{
+    "player_name": "Pontus Nyholm",
+    "position": 565
+}
+{
+    "player_name": "Brendan Steele",
+    "position": 566
+}
+{
+    "player_name": "Yi Cao",
+    "position": 567
+}
+{
+    "player_name": "Daniel Gale",
+    "position": 568
+}
+{
+    "player_name": "Pierre Pineau",
+    "position": 569
+}
+{
+    "player_name": "Jason Kokrak",
+    "position": 570
+}
+{
+    "player_name": "Mitchell Meissner",
+    "position": 570
+}
+{
+    "player_name": "George Coetzee",
+    "position": 572
+}
+{
+    "player_name": "Todd Sinnott",
+    "position": 573
+}
+{
+    "player_name": "Sam Saunders",
+    "position": 574
+}
+{
+    "player_name": "Bronson Burgoon",
+    "position": 575
+}
+{
+    "player_name": "Ryan Armour",
+    "position": 576
+}
+{
+    "player_name": "Ross Steelman",
+    "position": 576
+}
+{
+    "player_name": "Lee Slattery",
+    "position": 578
+}
+{
+    "player_name": "Jack Maguire",
+    "position": 579
+}
+{
+    "player_name": "Filippo Celli",
+    "position": 580
+}
+{
+    "player_name": "Pieter Moolman",
+    "position": 581
+}
+{
+    "player_name": "Andrew Wilson",
+    "position": 582
+}
+{
+    "player_name": "Keenan Davidse",
+    "position": 583
+}
+{
+    "player_name": "Gunn Charoenkul",
+    "position": 584
+}
+{
+    "player_name": "John Huh",
+    "position": 585
+}
+{
+    "player_name": "Sean O'Hair",
+    "position": 586
+}
+{
+    "player_name": "Mike Hendry",
+    "position": 587
+}
+{
+    "player_name": "Sangmoon Bae",
+    "position": 588
+}
+{
+    "player_name": "Evan Harmeling",
+    "position": 589
+}
+{
+    "player_name": "Tom Lewis",
+    "position": 590
+}
+{
+    "player_name": "Marc Hammer",
+    "position": 591
+}
+{
+    "player_name": "Haydn Barron",
+    "position": 592
+}
+{
+    "player_name": "Yeongsu Kim",
+    "position": 593
+}
+{
+    "player_name": "Chan Shih-chang",
+    "position": 594
+}
+{
+    "player_name": "Ashley Chesters",
+    "position": 595
+}
+{
+    "player_name": "Nicolas Colsaerts",
+    "position": 596
+}
+{
+    "player_name": "Yuta Kinoshita",
+    "position": 597
+}
+{
+    "player_name": "Steven Fisk",
+    "position": 598
+}
+{
+    "player_name": "Conor Purcell",
+    "position": 599
+}
+{
+    "player_name": "Hur In-hoi",
+    "position": 600
+}
+{
+    "player_name": "Veer Ahlawat",
+    "position": 601
+}
+{
+    "player_name": "Justin De Los Santos",
+    "position": 602
+}
+{
+    "player_name": "Daijiro Izumida",
+    "position": 603
+}
+{
+    "player_name": "Wade Ormsby",
+    "position": 604
+}
+{
+    "player_name": "Justin Walters",
+    "position": 605
+}
+{
+    "player_name": "Luca Filippi",
+    "position": 606
+}
+{
+    "player_name": "Seonghyeon Jeon",
+    "position": 607
+}
+{
+    "player_name": "Sebi Garcia",
+    "position": 608
+}
+{
+    "player_name": "Taehoon Ok",
+    "position": 609
+}
+{
+    "player_name": "Robert Streb",
+    "position": 610
+}
+{
+    "player_name": "Junseok Lee",
+    "position": 611
+}
+{
+    "player_name": "Lars Van Meijel",
+    "position": 611
+}
+{
+    "player_name": "Andrew Kozan",
+    "position": 613
+}
+{
+    "player_name": "Seungbin Choi",
+    "position": 614
+}
+{
+    "player_name": "Dylan Naidoo",
+    "position": 615
+}
+{
+    "player_name": "Zack Fischer",
+    "position": 616
+}
+{
+    "player_name": "P. Tangkamolpraser",
+    "position": 617
+}
+{
+    "player_name": "Borja Virto Astudillo",
+    "position": 618
+}
+{
+    "player_name": "Hank Lebioda",
+    "position": 619
+}
+{
+    "player_name": "Lucas Vacarisas",
+    "position": 620
+}
+{
+    "player_name": "Taiga Sugihara",
+    "position": 621
+}
+{
+    "player_name": "Om Prakash Chouhan",
+    "position": 622
+}
+{
+    "player_name": "Brendan Jones",
+    "position": 623
+}
+{
+    "player_name": "Nicolai B. Kristensen",
+    "position": 623
+}
+{
+    "player_name": "Joey Garber",
+    "position": 625
+}
+{
+    "player_name": "Chikkarangappa S.",
+    "position": 626
+}
+{
+    "player_name": "Hanbyeol Kim",
+    "position": 627
+}
+{
+    "player_name": "Jonathan Byrd",
+    "position": 628
+}
+{
+    "player_name": "Clay Feagler",
+    "position": 629
+}
+{
+    "player_name": "Jeppe Kristian Andersen",
+    "position": 630
+}
+{
+    "player_name": "Ryuko Tokimatsu",
+    "position": 631
+}
+{
+    "player_name": "Yuta Ikeda",
+    "position": 632
+}
+{
+    "player_name": "Dalton Ward",
+    "position": 632
+}
+{
+    "player_name": "Nicolai Von Dellingshausen",
+    "position": 634
+}
+{
+    "player_name": "Chapchai Nirat",
+    "position": 635
+}
+{
+    "player_name": "Sergio Garcia",
+    "position": 636
+}
+{
+    "player_name": "William McGirt",
+    "position": 637
+}
+{
+    "player_name": "Chandler Blanchet",
+    "position": 638
+}
+{
+    "player_name": "Craig Howie",
+    "position": 638
+}
+{
+    "player_name": "Terumichi Kakazu",
+    "position": 640
+}
+{
+    "player_name": "Jinho Choi",
+    "position": 641
+}
+{
+    "player_name": "Suteepat Prateeptienchai",
+    "position": 642
+}
+{
+    "player_name": "Alexander Frances",
+    "position": 643
+}
+{
+    "player_name": "Felix Mory",
+    "position": 644
+}
+{
+    "player_name": "Mikiya Akutsu",
+    "position": 645
+}
+{
+    "player_name": "Chris Naegel",
+    "position": 646
+}
+{
+    "player_name": "Brendon Jelley",
+    "position": 647
+}
+{
+    "player_name": "JJ Senekal",
+    "position": 648
+}
+{
+    "player_name": "Michael Block",
+    "position": 649
+}
+{
+    "player_name": "Itthipat Buranatanya",
+    "position": 650
+}
+{
+    "player_name": "Andrew Dodt",
+    "position": 651
+}
+{
+    "player_name": "Dermot McElroy",
+    "position": 652
+}
+{
+    "player_name": "Dan McCarthy",
+    "position": 653
+}
+{
+    "player_name": "Joe Weiler",
+    "position": 653
+}
+{
+    "player_name": "Atiruj Winaicharoenc",
+    "position": 655
+}
+{
+    "player_name": "Tommy Gainey",
+    "position": 656
+}
+{
+    "player_name": "Ratchanon Chantananuwat",
+    "position": 657
+}
+{
+    "player_name": "Daniel Berger",
+    "position": 658
+}
+{
+    "player_name": "Kousuke Hamamoto",
+    "position": 659
+}
+{
+    "player_name": "Ian Snyman",
+    "position": 659
+}
+{
+    "player_name": "Rashid Khan",
+    "position": 661
+}
+{
+    "player_name": "Wang Wei Lun",
+    "position": 662
+}
+{
+    "player_name": "Joseph Dean",
+    "position": 663
+}
+{
+    "player_name": "Bryce Easton",
+    "position": 664
+}
+{
+    "player_name": "Yoseop Seo",
+    "position": 665
+}
+{
+    "player_name": "Chen Guxin",
+    "position": 666
+}
+{
+    "player_name": "Nelson Ledesma",
+    "position": 667
+}
+{
+    "player_name": "Bjorn Hellgren",
+    "position": 668
+}
+{
+    "player_name": "Jack Thompson",
+    "position": 668
+}
+{
+    "player_name": "Danny Walker",
+    "position": 670
+}
+{
+    "player_name": "Settee Prakongvech",
+    "position": 671
+}
+{
+    "player_name": "Dylan Mostert",
+    "position": 672
+}
+{
+    "player_name": "Yujiro Ohori",
+    "position": 673
+}
+{
+    "player_name": "John Augenstein",
+    "position": 674
+}
+{
+    "player_name": "Chanwoo Kim",
+    "position": 675
+}
+{
+    "player_name": "Alistair Docherty",
+    "position": 676
+}
+{
+    "player_name": "Romain Wattel",
+    "position": 677
+}
+{
+    "player_name": "Juvic Pagunsan",
+    "position": 678
+}
+{
+    "player_name": "Galam Jeon",
+    "position": 679
+}
+{
+    "player_name": "Shunya Takeyasu",
+    "position": 679
+}
+{
+    "player_name": "Chris Paisley",
+    "position": 681
+}
+{
+    "player_name": "Jack Senior",
+    "position": 682
+}
+{
+    "player_name": "Kyle Barker",
+    "position": 683
+}
+{
+    "player_name": "Hayden Hopewell",
+    "position": 683
+}
+{
+    "player_name": "Suradit Yongcharoenchai",
+    "position": 685
+}
+{
+    "player_name": "Juli\u00e1n Etulain",
+    "position": 686
+}
+{
+    "player_name": "T.J. Vogel",
+    "position": 687
+}
+{
+    "player_name": "Martin Rohwer",
+    "position": 688
+}
+{
+    "player_name": "Martin Simonsen",
+    "position": 689
+}
+{
+    "player_name": "Prom Meesawat",
+    "position": 690
+}
+{
+    "player_name": "Koshiro Maeda",
+    "position": 691
+}
+{
+    "player_name": "Matias Honkala",
+    "position": 692
+}
+{
+    "player_name": "Jacques de Villiers",
+    "position": 693
+}
+{
+    "player_name": "Hung Chien-yao",
+    "position": 694
+}
+{
+    "player_name": "Victor Pastor Rufian",
+    "position": 695
+}
+{
+    "player_name": "Trevor Werbylo",
+    "position": 696
+}
+{
+    "player_name": "Micah Shin",
+    "position": 697
+}
+{
+    "player_name": "Yosuke Tsukada",
+    "position": 698
+}
+{
+    "player_name": "Charlie Lindh(Am)",
+    "position": 699
+}
+{
+    "player_name": "Sejung Hiramoto",
+    "position": 700
+}
+{
+    "player_name": "Jeremy Gandon",
+    "position": 701
+}
+{
+    "player_name": "Rahil Gangjee",
+    "position": 702
+}
+{
+    "player_name": "Dimi Papadatos",
+    "position": 703
+}
+{
+    "player_name": "Christofer Blomstrand",
+    "position": 704
+}
+{
+    "player_name": "Ryan Blaum",
+    "position": 705
+}
+{
+    "player_name": "Wooyoung Cho",
+    "position": 706
+}
+{
+    "player_name": "Keenan Huskey",
+    "position": 707
+}
+{
+    "player_name": "Daniel Young",
+    "position": 708
+}
+{
+    "player_name": "Jared du Toit",
+    "position": 709
+}
+{
+    "player_name": "Matt Atkins",
+    "position": 710
+}
+{
+    "player_name": "Andrew Martin",
+    "position": 711
+}
+{
+    "player_name": "Emilio Gonzalez",
+    "position": 712
+}
+{
+    "player_name": "Chris Stroud",
+    "position": 712
+}
+{
+    "player_name": "Danny Lee",
+    "position": 714
+}
+{
+    "player_name": "Yusaku Miyazato",
+    "position": 715
+}
+{
+    "player_name": "Aaron Wilkin",
+    "position": 716
+}
+{
+    "player_name": "Daniel Miernicki",
+    "position": 717
+}
+{
+    "player_name": "Jim Herman",
+    "position": 718
+}
+{
+    "player_name": "Jaco Van Zyl",
+    "position": 719
+}
+{
+    "player_name": "Julien Sale",
+    "position": 720
+}
+{
+    "player_name": "Branden Grace",
+    "position": 721
+}
+{
+    "player_name": "Lauri Ruuska",
+    "position": 722
+}
+{
+    "player_name": "Philip Knowles",
+    "position": 723
+}
+{
+    "player_name": "Pedro Figueiredo",
+    "position": 724
+}
+{
+    "player_name": "Graeme McDowell",
+    "position": 725
+}
+{
+    "player_name": "Changtai Sudsom",
+    "position": 726
+}
+{
+    "player_name": "James Allan",
+    "position": 727
+}
+{
+    "player_name": "Devon Bling",
+    "position": 728
+}
+{
+    "player_name": "Sebastian Friedrichsen",
+    "position": 729
+}
+{
+    "player_name": "Benjamin Hebert",
+    "position": 729
+}
+{
+    "player_name": "Chonlatit Chuenboonngam",
+    "position": 731
+}
+{
+    "player_name": "Hyun-woo Ryu",
+    "position": 731
+}
+{
+    "player_name": "Justin Warren",
+    "position": 731
+}
+{
+    "player_name": "Jos\u00e9 Toledo",
+    "position": 734
+}
+{
+    "player_name": "Sang-hee Lee",
+    "position": 735
+}
+{
+    "player_name": "Todd Baek",
+    "position": 736
+}
+{
+    "player_name": "Scott Harrington",
+    "position": 737
+}
+{
+    "player_name": "Hanmil Jung",
+    "position": 738
+}
+{
+    "player_name": "Michael Gligic",
+    "position": 739
+}
+{
+    "player_name": "Sung Kang",
+    "position": 740
+}
+{
+    "player_name": "Matthew Griffin",
+    "position": 741
+}
+{
+    "player_name": "David Horsey",
+    "position": 742
+}
+{
+    "player_name": "Patrick Newcomb",
+    "position": 743
+}
+{
+    "player_name": "Yosuke Asaji",
+    "position": 744
+}
+{
+    "player_name": "Rattanon Wannasrichan",
+    "position": 745
+}
+{
+    "player_name": "Jared Wolfe",
+    "position": 745
+}
+{
+    "player_name": "Tomoyasu Sugiyama",
+    "position": 747
+}
+{
+    "player_name": "Shintaro Kobayashi",
+    "position": 748
+}
+{
+    "player_name": "Kodai Ichihara",
+    "position": 749
+}
+{
+    "player_name": "Tom Power-Horan",
+    "position": 750
+}
+{
+    "player_name": "Sam Brazel",
+    "position": 751
+}
+{
+    "player_name": "Jack Davidson",
+    "position": 752
+}
+{
+    "player_name": "Malcolm Mitchell",
+    "position": 752
+}
+{
+    "player_name": "Justin Shin",
+    "position": 754
+}
+{
+    "player_name": "Yuta Uetake",
+    "position": 754
+}
+{
+    "player_name": "Hamish Brown",
+    "position": 756
+}
+{
+    "player_name": "Patrick Flavin",
+    "position": 756
+}
+{
+    "player_name": "Heinrich Bruiners",
+    "position": 758
+}
+{
+    "player_name": "Yuta Kaneko",
+    "position": 759
+}
+{
+    "player_name": "Wesley Bryan",
+    "position": 760
+}
+{
+    "player_name": "Jonathan Caldwell",
+    "position": 761
+}
+{
+    "player_name": "Cameron Tringale",
+    "position": 761
+}
+{
+    "player_name": "Taeho Kim",
+    "position": 763
+}
+{
+    "player_name": "Joey Savoie",
+    "position": 764
+}
+{
+    "player_name": "Isidro Benitez",
+    "position": 765
+}
+{
+    "player_name": "Alfie Plant",
+    "position": 766
+}
+{
+    "player_name": "Panuphol Pittayarat",
+    "position": 767
+}
+{
+    "player_name": "Ryo Katsumata",
+    "position": 768
+}
+{
+    "player_name": "David Drysdale",
+    "position": 769
+}
+{
+    "player_name": "Andrew Landry",
+    "position": 770
+}
+{
+    "player_name": "Mark Anderson",
+    "position": 771
+}
+{
+    "player_name": "Christofer Rahm",
+    "position": 772
+}
+{
+    "player_name": "Steven Brown",
+    "position": 773
+}
+{
+    "player_name": "Jean Hugo",
+    "position": 774
+}
+{
+    "player_name": "Sandy Scott",
+    "position": 775
+}
+{
+    "player_name": "Takanori Konishi",
+    "position": 776
+}
+{
+    "player_name": "Mikko Korhonen",
+    "position": 777
+}
+{
+    "player_name": "Velten Meyer",
+    "position": 778
+}
+{
+    "player_name": "Kyle Jones",
+    "position": 779
+}
+{
+    "player_name": "Walker Lee",
+    "position": 780
+}
+{
+    "player_name": "Andreas Halvorsen",
+    "position": 781
+}
+{
+    "player_name": "Alan Wagner",
+    "position": 782
+}
+{
+    "player_name": "Bud Cauley",
+    "position": 783
+}
+{
+    "player_name": "Garett Reband",
+    "position": 783
+}
+{
+    "player_name": "Jeremy Freiburghaus",
+    "position": 785
+}
+{
+    "player_name": "Joshua Creel",
+    "position": 786
+}
+{
+    "player_name": "Martin Flores",
+    "position": 786
+}
+{
+    "player_name": "Stefan Wears Taylor",
+    "position": 788
+}
+{
+    "player_name": "Brandt Snedeker",
+    "position": 789
+}
+{
+    "player_name": "Sam Horsfield",
+    "position": 790
+}
+{
+    "player_name": "Joel Moscatel Nachsh",
+    "position": 790
+}
+{
+    "player_name": "Taikou Nishiyama",
+    "position": 792
+}
+{
+    "player_name": "Kade McBride",
+    "position": 793
+}
+{
+    "player_name": "Ricardo Santos",
+    "position": 794
+}
+{
+    "player_name": "Tomohiro Kondo",
+    "position": 795
+}
+{
+    "player_name": "Scott Stevens",
+    "position": 795
+}
+{
+    "player_name": "Gregorio De Leo",
+    "position": 797
+}
+{
+    "player_name": "MJ Maguire",
+    "position": 798
+}
+{
+    "player_name": "Clement Berardo",
+    "position": 799
+}
+{
+    "player_name": "Wonjoon Lee",
+    "position": 800
+}
+{
+    "player_name": "Matthew Wolff",
+    "position": 801
+}
+{
+    "player_name": "Nikhil Rama",
+    "position": 802
+}
+{
+    "player_name": "Ross McGowan",
+    "position": 803
+}
+{
+    "player_name": "Netipong Sritonginn",
+    "position": 804
+}
+{
+    "player_name": "Zach Murray",
+    "position": 805
+}
+{
+    "player_name": "Rikard Karlberg",
+    "position": 806
+}
+{
+    "player_name": "Cameron John",
+    "position": 807
+}
+{
+    "player_name": "Wynand Dingle",
+    "position": 808
+}
+{
+    "player_name": "Gerhard Pepler",
+    "position": 808
+}
+{
+    "player_name": "Hennie O'Kennedy",
+    "position": 810
+}
+{
+    "player_name": "Alejandro Ca\u00f1izares",
+    "position": 811
+}
+{
+    "player_name": "Alexandre Rocha",
+    "position": 811
+}
+{
+    "player_name": "Lyle Rowe",
+    "position": 811
+}
+{
+    "player_name": "Jiri Zuska",
+    "position": 811
+}
+{
+    "player_name": "Elvis Smylie",
+    "position": 815
+}
+{
+    "player_name": "Josh Geary",
+    "position": 816
+}
+{
+    "player_name": "Brian Stuard",
+    "position": 817
+}
+{
+    "player_name": "Rob Oppenheim",
+    "position": 818
+}
+{
+    "player_name": "A.J. Crouch",
+    "position": 819
+}
+{
+    "player_name": "Rupert Kaminski",
+    "position": 820
+}
+{
+    "player_name": "Colin Featherstone",
+    "position": 821
+}
+{
+    "player_name": "KK Limbhasut",
+    "position": 822
+}
+{
+    "player_name": "Nicolo Galletti",
+    "position": 823
+}
+{
+    "player_name": "Cooper Musselman",
+    "position": 824
+}
+{
+    "player_name": "Ajeetesh Sandhu",
+    "position": 824
+}
+{
+    "player_name": "Poosit Supupramai",
+    "position": 824
+}
+{
+    "player_name": "Shariffudin Ariffin",
+    "position": 827
+}
+{
+    "player_name": "Jonas Blixt",
+    "position": 828
+}
+{
+    "player_name": "Oliver Hundeboll",
+    "position": 829
+}
+{
+    "player_name": "Kazuya Koura",
+    "position": 830
+}
+{
+    "player_name": "Spencer Ralston",
+    "position": 831
+}
+{
+    "player_name": "Hennie Otto",
+    "position": 832
+}
+{
+    "player_name": "Jordan Zunic",
+    "position": 833
+}
+{
+    "player_name": "Matthew Cheung",
+    "position": 834
+}
+{
+    "player_name": "Eric Sugimoto",
+    "position": 835
+}
+{
+    "player_name": "Trevor Simsby",
+    "position": 836
+}
+{
+    "player_name": "John Pak",
+    "position": 837
+}
+{
+    "player_name": "Victor H Sidal Svendsen",
+    "position": 838
+}
+{
+    "player_name": "Siddikur Rahman",
+    "position": 839
+}
+{
+    "player_name": "John Lyras",
+    "position": 840
+}
+{
+    "player_name": "Aron Zemmer",
+    "position": 841
+}
+{
+    "player_name": "Chanat Sakulpolphaisan",
+    "position": 842
+}
+{
+    "player_name": "Lucas Bjerregaard",
+    "position": 843
+}
+{
+    "player_name": "Manu Gandas",
+    "position": 843
+}
+{
+    "player_name": "Yuxin Lin",
+    "position": 843
+}
+{
+    "player_name": "Yuvraj Sandhu",
+    "position": 843
+}
+{
+    "player_name": "Peter Knade",
+    "position": 847
+}
+{
+    "player_name": "Miguel Angel Carballo",
+    "position": 848
+}
+{
+    "player_name": "Brandon McIver",
+    "position": 849
+}
+{
+    "player_name": "Niklas Lemke",
+    "position": 850
+}
+{
+    "player_name": "Danthai Boonma",
+    "position": 851
+}
+{
+    "player_name": "Conner Godsey",
+    "position": 852
+}
+{
+    "player_name": "Lee Dong-Min",
+    "position": 853
+}
+{
+    "player_name": "Brandon Hagy",
+    "position": 854
+}
+{
+    "player_name": "Honey Baisoya",
+    "position": 855
+}
+{
+    "player_name": "Jake McLeod",
+    "position": 855
+}
+{
+    "player_name": "Doyeob Mun",
+    "position": 855
+}
+{
+    "player_name": "Tsubasa Ukita",
+    "position": 858
+}
+{
+    "player_name": "Sudarshan Yellamaraju",
+    "position": 859
+}
+{
+    "player_name": "Joakim Wikstrom",
+    "position": 860
+}
+{
+    "player_name": "Bradley Bawden",
+    "position": 861
+}
+{
+    "player_name": "Michael Stewart",
+    "position": 862
+}
+{
+    "player_name": "Peter Karmis",
+    "position": 863
+}
+{
+    "player_name": "Taichi Kimura",
+    "position": 863
+}
+{
+    "player_name": "Douglas Klein",
+    "position": 863
+}
+{
+    "player_name": "Pattaraphol Khanthac",
+    "position": 866
+}
+{
+    "player_name": "Seuk-hyun Baek",
+    "position": 867
+}
+{
+    "player_name": "Philipp Katich",
+    "position": 868
+}
+{
+    "player_name": "Tomohiro Ishizaka",
+    "position": 869
+}
+{
+    "player_name": "Jediah Morgan",
+    "position": 870
+}
+{
+    "player_name": "Adam Bland",
+    "position": 871
+}
+{
+    "player_name": "Martin Contini",
+    "position": 872
+}
+{
+    "player_name": "Ervin Chang",
+    "position": 873
+}
+{
+    "player_name": "Dan Erickson",
+    "position": 874
+}
+{
+    "player_name": "Ryo Noro",
+    "position": 875
+}
+{
+    "player_name": "Chris Baker",
+    "position": 876
+}
+{
+    "player_name": "Gary Hurley",
+    "position": 876
+}
+{
+    "player_name": "Luis Gerardo Garza",
+    "position": 878
+}
+{
+    "player_name": "Jeffrey Guan",
+    "position": 879
+}
+{
+    "player_name": "Ben Schmidt",
+    "position": 880
+}
+{
+    "player_name": "Emilio Cuartero Blanco",
+    "position": 881
+}
+{
+    "player_name": "Min-su Kim",
+    "position": 882
+}
+{
+    "player_name": "James Piot",
+    "position": 882
+}
+{
+    "player_name": "Bo Hoag",
+    "position": 884
+}
+{
+    "player_name": "Jay Card III",
+    "position": 885
+}
+{
+    "player_name": "James Nicholas",
+    "position": 886
+}
+{
+    "player_name": "Harrison Crowe",
+    "position": 887
+}
+{
+    "player_name": "Yurav Premlal",
+    "position": 888
+}
+{
+    "player_name": "Axel Boasson",
+    "position": 889
+}
+{
+    "player_name": "Oliver Lindell",
+    "position": 889
+}
+{
+    "player_name": "Suttinon Panyo",
+    "position": 891
+}
+{
+    "player_name": "Robin Roussel",
+    "position": 892
+}
+{
+    "player_name": "Angad Cheema",
+    "position": 893
+}
+{
+    "player_name": "Akio Sadakata",
+    "position": 894
+}
+{
+    "player_name": "Albin Bergstro",
+    "position": 895
+}
+{
+    "player_name": "Gyumin Lee",
+    "position": 896
+}
+{
+    "player_name": "Yuwa Kosaihira",
+    "position": 897
+}
+{
+    "player_name": "Hiroki Tanaka",
+    "position": 898
+}
+{
+    "player_name": "Matthis Besard",
+    "position": 899
+}
+{
+    "player_name": "Alex Chiarella",
+    "position": 899
+}
+{
+    "player_name": "Ryan Burnett",
+    "position": 901
+}
+{
+    "player_name": "Jak Carter",
+    "position": 902
+}
+{
+    "player_name": "Turk Pettit",
+    "position": 903
+}
+{
+    "player_name": "Luke Jerling",
+    "position": 904
+}
+{
+    "player_name": "Han Lee",
+    "position": 905
+}
+{
+    "player_name": "Martin Vorster",
+    "position": 905
+}
+{
+    "player_name": "David Kim",
+    "position": 907
+}
+{
+    "player_name": "Nick Voke",
+    "position": 908
+}
+{
+    "player_name": "Sangchai Kaewcharoen",
+    "position": 909
+}
+{
+    "player_name": "Jovan Rebula",
+    "position": 910
+}
+{
+    "player_name": "Jens Fahrbring",
+    "position": 911
+}
+{
+    "player_name": "Oscar Lengden",
+    "position": 912
+}
+{
+    "player_name": "Sung Joon Park",
+    "position": 912
+}
+{
+    "player_name": "Javier Sainz",
+    "position": 914
+}
+{
+    "player_name": "Anthony Michael",
+    "position": 915
+}
+{
+    "player_name": "Ashton Van Horne",
+    "position": 916
+}
+{
+    "player_name": "Shingo Katayama",
+    "position": 917
+}
+{
+    "player_name": "Kazuki Yasumori",
+    "position": 917
+}
+{
+    "player_name": "Jarand Ekeland Arnoy",
+    "position": 919
+}
+{
+    "player_name": "Michael Feagles",
+    "position": 920
+}
+{
+    "player_name": "Aman Raj",
+    "position": 920
+}
+{
+    "player_name": "Varanyu Rattanaphibo",
+    "position": 922
+}
+{
+    "player_name": "Dominic Foos",
+    "position": 923
+}
+{
+    "player_name": "Ding Wenyi",
+    "position": 923
+}
+{
+    "player_name": "Brett White",
+    "position": 925
+}
+{
+    "player_name": "William Harrold",
+    "position": 926
+}
+{
+    "player_name": "Raul Pereda",
+    "position": 926
+}
+{
+    "player_name": "Minhyuk Song",
+    "position": 928
+}
+{
+    "player_name": "Brian Richey",
+    "position": 929
+}
+{
+    "player_name": "Wade Binfield",
+    "position": 930
+}
+{
+    "player_name": "Jannik De Bruyn",
+    "position": 931
+}
+{
+    "player_name": "Trevor Fisher Jr",
+    "position": 932
+}
+{
+    "player_name": "Soren Broholt Lind",
+    "position": 933
+}
+{
+    "player_name": "Mateusz Gradecki",
+    "position": 934
+}
+{
+    "player_name": "Sung-Ho Lee",
+    "position": 935
+}
+{
+    "player_name": "Travis Trace",
+    "position": 936
+}
+{
+    "player_name": "Wei-Hsuan Wang",
+    "position": 936
+}
+{
+    "player_name": "Tatsuya Kodai",
+    "position": 938
+}
+{
+    "player_name": "Stephen Gallacher",
+    "position": 939
+}
+{
+    "player_name": "Justin Quiban",
+    "position": 939
+}
+{
+    "player_name": "Tiger Woods",
+    "position": 941
+}
+{
+    "player_name": "Sihwan Kim",
+    "position": 942
+}
+{
+    "player_name": "Jim Knous",
+    "position": 942
+}
+{
+    "player_name": "Jang Dong-Kyu",
+    "position": 944
+}
+{
+    "player_name": "Hyungjoon Lee",
+    "position": 945
+}
+{
+    "player_name": "Yusuke Sakamoto",
+    "position": 945
+}
+{
+    "player_name": "Joel Sj\u00f6holm",
+    "position": 947
+}
+{
+    "player_name": "Ryuichi Oiwa",
+    "position": 948
+}
+{
+    "player_name": "Oliver Gillberg",
+    "position": 949
+}
+{
+    "player_name": "Oihan Guillamoundeguy",
+    "position": 949
+}
+{
+    "player_name": "Yun-seok Gang",
+    "position": 951
+}
+{
+    "player_name": "Sung -Kug Park",
+    "position": 952
+}
+{
+    "player_name": "Espen Kofstad",
+    "position": 953
+}
+{
+    "player_name": "Tomas Melo Gouvei",
+    "position": 954
+}
+{
+    "player_name": "Ruan Korb",
+    "position": 955
+}
+{
+    "player_name": "Connor McKinney",
+    "position": 955
+}
+{
+    "player_name": "Benjamin Jones",
+    "position": 957
+}
+{
+    "player_name": "Tirawat Kaewsiribandt",
+    "position": 957
+}
+{
+    "player_name": "Sachin Baisoya",
+    "position": 959
+}
+{
+    "player_name": "Chris Korte",
+    "position": 959
+}
+{
+    "player_name": "Brian Carlson",
+    "position": 961
+}
+{
+    "player_name": "Karan Singh",
+    "position": 962
+}
+{
+    "player_name": "Anton Karlsson",
+    "position": 963
+}
+{
+    "player_name": "Jin-sung Kim",
+    "position": 963
+}
+{
+    "player_name": "Matias Sanchez",
+    "position": 965
+}
+{
+    "player_name": "Charlie Hillier",
+    "position": 966
+}
+{
+    "player_name": "Brian Gay",
+    "position": 967
+}
+{
+    "player_name": "Ben Leong",
+    "position": 967
+}
+{
+    "player_name": "Luke Schniederjans",
+    "position": 967
+}
+{
+    "player_name": "Liam Johnston",
+    "position": 970
+}
+{
+    "player_name": "Per Langfors",
+    "position": 971
+}
+{
+    "player_name": "Jesus Montenegro",
+    "position": 971
+}
+{
+    "player_name": "Heemin Chang",
+    "position": 973
+}
+{
+    "player_name": "Cooper Dossey",
+    "position": 974
+}
+{
+    "player_name": "Ricky Barnes",
+    "position": 975
+}
+{
+    "player_name": "Hugo Townsend",
+    "position": 975
+}
+{
+    "player_name": "Jake Redman",
+    "position": 977
+}
+{
+    "player_name": "Min-Jun Kim",
+    "position": 978
+}
+{
+    "player_name": "Erik Compton",
+    "position": 979
+}
+{
+    "player_name": "Hirotaro Naito",
+    "position": 980
+}
+{
+    "player_name": "Dylan Perry",
+    "position": 981
+}
+{
+    "player_name": "Jack McDonald",
+    "position": 982
+}
+{
+    "player_name": "Jae-Ho Kim",
+    "position": 983
+}
+{
+    "player_name": "Cameron Sisk",
+    "position": 984
+}
+{
+    "player_name": "Wanchai Luangnitku",
+    "position": 985
+}
+{
+    "player_name": "Albert Venter",
+    "position": 985
+}
+{
+    "player_name": "Frederik Birkelund",
+    "position": 987
+}
+{
+    "player_name": "Ian Holt",
+    "position": 988
+}
+{
+    "player_name": "Naraajie Ramadhan Putra",
+    "position": 989
+}
+{
+    "player_name": "Jarin Todd",
+    "position": 990
+}
+{
+    "player_name": "Wocheng Ye",
+    "position": 991
+}
+{
+    "player_name": "Robin Petersson",
+    "position": 992
+}
+{
+    "player_name": "Jacques Blaauw",
+    "position": 993
+}
+{
+    "player_name": "Ruaidhri McGee",
+    "position": 994
+}
+{
+    "player_name": "Runchanapong Youprayon",
+    "position": 994
+}
+{
+    "player_name": "Junhong Park",
+    "position": 996
+}
+{
+    "player_name": "Thanapath Pichaikul",
+    "position": 997
+}
+{
+    "player_name": "Lee Westwood",
+    "position": 997
+}
